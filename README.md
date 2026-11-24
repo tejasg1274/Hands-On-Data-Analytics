@@ -101,7 +101,7 @@ Practical implementation of data modeling, DAX calculations, data visualization,
 **Datasets Used:**
 
 
-- [Power BI Finance Dataset](https://github.com/tejasg1274/Hands-On-Data-Analytics/blob/main/Power%20BI%20Assignments/Finance%20dataset.xlsx)
+- [Finance Dataset](https://github.com/tejasg1274/Hands-On-Data-Analytics/blob/main/Power%20BI%20Assignments/Finance%20dataset.xlsx)
 - [Sample Superstore Dataset](https://github.com/tejasg1274/Hands-On-Data-Analytics/blob/main/Power%20BI%20Assignments/sample_-_superstore.xlsx)
 
 
