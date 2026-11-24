@@ -100,9 +100,11 @@ Practical implementation of data modeling, DAX calculations, data visualization,
 
 **Datasets Used:**
 
-- Sample Superstore Dataset
-- Finance Dataset
-- Worldwide Box Office Data (Box Office Mojo)
+
+- [Power BI Finance Dataset](https://github.com/tejasg1274/Hands-On-Data-Analytics/blob/main/Power%20BI%20Assignments/Finance%20dataset.xlsx)
+- [Sample Superstore Dataset](https://github.com/tejasg1274/Hands-On-Data-Analytics/blob/main/Power%20BI%20Assignments/sample_-_superstore.xlsx)
+
+
 
 ### 3. SQL Assignments
 
@@ -128,7 +130,7 @@ Practical implementation of SQL queries, database design, data retrieval, aggreg
 
 **Database Used:**
 
-- Classic Models Database
+- [Classic Models SQL Database](https://github.com/tejasg1274/Hands-On-Data-Analytics/blob/main/SQL%20Assignments/Classicmodels%20database.sql)
 - Custom databases and tables created as part of SQL assignments.
 
 ## Repository Structure
