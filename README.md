@@ -33,7 +33,7 @@ Practical implementation of Excel functions, data manipulation, visualization, d
 
 **Concepts Covered:**
 
-- **Mathematical & Statistical Functions:** SUM, AVERAGE, MIN, MAX, COUNT and related calculations.
+- **Arithmetical Functions:** SUM, AVERAGE, MIN, MAX, COUNT and related calculations.
 - **Logical Functions:** IF, AND, OR and conditional calculations.
 - **Lookup & Reference Functions:** VLOOKUP, INDEX, MATCH and combined lookup techniques.
 - **Date & Time Functions:** TODAY, NOW, DAY, MONTH, YEAR, DATEDIF and date calculations.
@@ -149,12 +149,12 @@ Hands-On-Data-Analysis/
 │
 ├── Power BI Assignment/
 │   ├── Finance Dataset
-│   ├── Sample Superstore Dataset
+│   ├── Power BI Assignment Answers
 │   ├── Power BI Assignment Questions
-│   └── Power BI Assignment Answers
+│   └── Sample Superstore Dataset
 │
 ├── SQL Assignment/
-│   ├── Classic Models Database
+│   ├── Classicmodels Database
 │   ├── MySQL Assignment Questions
 │   └── SQL Assignment Answers
 │
