@@ -91,6 +91,7 @@ Practical implementation of data modeling, DAX calculations, data visualization,
   - Data bars.
   - Font color formatting.
 - **Dashboard Development:**
+  ![Project Dashboard](https://github.com/tejasg1274/Hands-On-Data-Analytics/blob/main/Power%20BI%20Assignments/Dashboard%20Image.jpg)
   - Finance Dashboard.
   - Navigation buttons.
   - KPI Cards.
