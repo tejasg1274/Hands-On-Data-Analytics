@@ -1,4 +1,4 @@
-# Hands-On Data Analysis
+# Hands-On-Data Analysis
 
 A practical Data Analytics project featuring hands-on assignments and implementations using **Microsoft Excel, Power BI, and MySQL**. This repository contains practical exercises covering data manipulation, analysis, visualization, reporting, database management, and automation.
 
