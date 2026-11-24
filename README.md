@@ -187,4 +187,7 @@ Through these practical assignments, I gained hands-on experience in:
 
 ---
 
-**Author:** Tejas Gangapurkar
+- **Author:** Tejas Gangapurkar
+- **LinkedIn:** www.linkedin.com/in/tejas-gangapurkar-3b2ab32b2
+- **GitHub:** https://github.com/tejasg1274
+- **Email:** tejasg1274@gmail.com
